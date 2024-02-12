@@ -1,0 +1,1 @@
+print("Hellow from inside a file!")
